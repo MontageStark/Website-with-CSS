@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+    <!--Background Image -->
+    <style>
+         body {
+        background-image: url("bg.png");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+    </style>
+
+    <!--Font and Heading -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Engines</title> 
+
+    <!--Top Nav -->
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+        
+        body {
+          margin: 0;
+        }
+        
+        /* Style the top navigation bar */
+        .topnav {
+          overflow: hidden;
+          background-color: rgba(3, 31, 75, 0.514);
+        }
+        
+        /* Style the topnav links */
+        .topnav a {
+          float: left;
+          display: block;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        /* Change color on hover */
+        .topnav a:hover {
+          background-color: rgb(5, 238, 255);
+          color: black;
+        }
+        </style> 
+   
+</head>
+<body>
+      
+    <!-- Top Nav text-->
+      <div class="topnav">
+        <a href="#">HOME</a>
+        <a href="#">GAMES MAP</a>
+        <a href="#">REVENUE</a>
+        <a href="#">CONTACT US</a>
+      </div>
+
+      <!--Font, Align, color -->
+    <h1 style="font-family: Lobster;
+                text-align: center;
+                background-color: aqua; 
+                padding: 30px;
+                font-size: 100;">Game Engines</h1> 
+
+                <!--Font embeded link -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+
+    <!--Dotted line -->
+    <hr style="border:2px dotted aqua"> 
+        <h2 style="font-family: Bebas Neue;text-align: center;text-shadow: 4px 4px 8px rgb(255, 255, 255); color: rgb(0, 0, 0);">PLAYERUNKNOWN'S BATTLEGROUNDS:-</h2>
+        </hr>
+
+        <!--Bebas Font-->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+        <!--Image position-->
+        <style>
+            img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            }
+            </style>
+
+    <!--Image link-->
+   <img src="https://www.dexerto.com/wp-content/uploads/thumbnails/_thumbnailLarge/PUBG-Map-Vote-Favorite.jpg" width="1000">
+   
+   <!--Barlow Condensed Font-->
+   <h3 style="font-family:Barlow Condensed; text-align: center; color: rgb(255, 255, 255);">PUBG game making in Unreal Engine:-</h3>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed&display=swap" rel="stylesheet">
+
+    <!--Yt link-->
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Unp5CI-yliE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <br>
+
+   <!--Calling the font-->
+   <h3 style="font-family:Barlow Condensed;text-align: center;color: rgb(255, 255, 255);">Information:-</h3>
+
+    <!--Table-->
+   <table border="1">
+       <thread>
+           <tr>
+               <th>Games</th>
+               <th>Game Engines</th>
+               <th>Published</th>
+               <th>Country</th>
+           </tr>
+       </thread>
+       <tbody>
+           <tr>
+               <td>PUBG</td>
+               <td>Unreal Engine</td>
+               <td>March 23, 2017</td>
+               <td>South Korea</td>
+            </tr>
+       </tbody>
+   </table>
+   <br>
+
+   <!--Audio link from pc-->
+   <audio controls>
+       <source src="DIOR  Положение  Polozhenie T3NZU Remix  LONG VERSION.mp3" type="audio/mpeg">
+   </audio>
+   <br><br>
+
+   <!--Font calling-->
+   <h3 style="font-family:Barlow Condensed;color: rgb(255, 255, 255);">Did you know about this information earlier?</h3> 
+
+   <!--Form-->
+   <form>
+    <input type="checkbox" >
+    <labe> Yes </label><br>
+    <input type="checkbox">
+    <label> No </label><br>
+    <input type="checkbox">
+    <label> Only a small part of the information</label><br>
+    <input type="submit" value="Submit">
+  </form>
+  <br><br>
+
+  <!--Calling font, align, color-->
+  <h2 style="font-family: Bebas Neue;text-align: center; color: rgb(255, 255, 255);">Amoung Us:-</h2>
+
+  <!--Image link-->
+  <img src="https://dicendpads.com/wp-content/uploads/2021/11/AMONG-US.jpg">
+  <br>
+
+  <!--Calling font, align, color-->
+  <h3 style="font-family:Barlow Condensed;text-align: center;color: rgb(255, 255, 255);">Amoung us making:-</h3> 
+
+  <!-- -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JBib9vPxhBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <h3 style="font-family:Barlow Condensed;text-align: center; color: rgb(255, 255, 255);">About Amoung Us:-</h3>
+  <br>
+
+  <!--Table-->
+   <table border="1">
+    <thread>
+        <tr>
+            <th>Games</th>
+            <th>Game Engines</th>
+            <th>Published</th>
+            <th>Country</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td>Amoung Us</td>
+            <td>Unity</td>
+            <td>March 23, 15 June 2018</td>
+            <td>America</td>
+         </tr>
+    </tbody>
+</table>
+<br><br>
+
+<!--Calling font, align, color-->
+<h3 style="font-family:Barlow Condensed;color: rgb(255, 255, 255);">Did you know about this information earlier?</h3> 
+
+<!--Form-->
+<form>
+ <input type="checkbox" >
+ <labe> Yes </label><br>
+ <input type="checkbox">
+ <label> No </label><br>
+ <input type="checkbox">
+ <label> Only a small part of the information</label><br>
+ <input type="submit" value="Submit">
+</form>
+
+</div>
+</body>
+</html>
